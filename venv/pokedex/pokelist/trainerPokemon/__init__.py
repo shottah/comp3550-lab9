@@ -1,0 +1,2 @@
+from .trainerPokemon import TrainerPokemon
+from .trainerPokemonSerializer import TrainerPokemonSerializer
